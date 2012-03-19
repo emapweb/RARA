@@ -1,0 +1,404 @@
+<show-page>
+  <content-body:>
+    <h2>Findings</h2>
+    <div class="findings_area">
+    <div class="msg_list" >
+
+    <p class="msg_head"><span class="revbase"><i>Emergency Management Standard</i> by EMAP</span><br />
+      <span class="counter_group">
+        First Reads Entered:
+        <span class="counter1">
+          <ht key="finding.collection.count" count="&this.emap_p_findings.count">
+            <human-collection-name collection="findings" />
+          </ht> out of 104
+        </span><br />
+        Second Reads Entered:
+        <span class="counter2">
+          <ht key="finding.collection.count" count="&this.emap_s_findings.count">
+            <human-collection-name collection="findings" />
+          </ht> out of 104
+        </span><br />
+        Completed:
+        <span class="counter3">
+          <ht key="finding.collection.count" count="&this.emap_findings.count">
+            <human-collection-name collection="findings" />
+          </ht> out of 104
+        </span>
+      </span>
+    </p>
+      <div class="msg_sub_body">
+
+        <p class="msg_head">Chapter 3 - Emergency Management Program</p>
+          <div class="msg_sub_body">
+            <p class="msg_head">Standard 3.1 Program Administration, Plans and Evaluation</p>
+              <div class="msg_sub_body" href="#1" name="1">
+                <div><a href="#"><collection:emap_311_findings  /></a></div><hr />
+                <div><a href="#"><collection:emap_312_findings /></a></div>
+              </div>
+            <p class="msg_head">Standard 3.2 Program Coordination</p>
+              <div class="msg_sub_body">
+                <div><a href="#"><collection:emap_321_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_322_findings /></a></div>
+              </div>
+            <p class="msg_head">Standard 3.3 Advisory Committee</p>
+              <div class="msg_sub_body">
+                <div><a href="#"><collection:emap_331_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_332_findings /></a></div>
+              </div>
+          </div>
+
+        <p class="msg_head">Chapter 4 - Emergency Management Program Elements</p>
+          <div class="msg_sub_body">
+            <p class="msg_head">Standard 4.1 Administration and Finance</p>
+              <div class="msg_sub_body">
+                <div><a href="#"><collection:emap_411_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_412_findings /></a></div>
+              </div>
+            <p class="msg_head">Standard 4.2 Laws and Authorities</p>
+              <div class="msg_sub_body">
+                <div><a href="#"><collection:emap_421_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_422_findings /></a></div>
+              </div>
+            <p class="msg_head">Standard 4.3 Hazard Identification, Risk Assessment and Consequence Analysis</p>
+              <div class="msg_sub_body">
+                <div><a href="#"><collection:emap_431_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_432_findings /></a></div>
+              </div>
+            <p class="msg_head">Standard 4.4 Hazard Mitigation</p>
+              <div class="msg_sub_body">
+                <div><a href="#"><collection:emap_441_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_442_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_443_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_444_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_445_findings /></a></div>
+              </div>
+            <p class="msg_head">Standard 4.5 Prevention</p>
+              <div class="msg_sub_body">
+                <div><a href="#"><collection:emap_451_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_452_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_453_findings /></a></div>
+              </div>
+            <p class="msg_head">Standard 4.6 Operational Planning</p>
+              <div class="msg_sub_body">
+                <div><a href="#"><collection:emap_461_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4621_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4631_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_464_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_465_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_466_findings /></a></div>
+              </div>
+            <p class="msg_head">Standard 4.7 Incident Management</p>
+              <div class="msg_sub_body">
+                <div><a href="#"><collection:emap_471_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_472_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_473_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_474_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_475_findings /></a></div>
+              </div>
+            <p class="msg_head">Standard 4.8 Resource Management and Logistics</p>
+              <div class="msg_sub_body">
+                <div><a href="#"><collection:emap_481_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_482_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_483_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4841_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_485_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_486_findings /></a></div>
+              </div>
+            <p class="msg_head">Standard 4.9 Mutual Aid</p>
+              <div class="msg_sub_body">
+                <div><a href="#"><collection:emap_491_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_492_findings /></a></div>
+              </div>
+            <p class="msg_head">Standard 4.10 Communications and Warning</p>
+              <div class="msg_sub_body">
+                <div><a href="#"><collection:emap_4101_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4102_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4103_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4104_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4105_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4106_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4107_findings /></a></div>
+              </div>
+            <p class="msg_head">Standard 4.11 Operations and Procedures</p>
+              <div class="msg_sub_body">
+                <div><a href="#"><collection:emap_4111_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4112_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4113_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4114_findings /></a></div>
+              </div>
+            <p class="msg_head">Standard 4.12 Facilities</p>
+              <div class="msg_sub_body">
+                <div><a href="#"><collection:emap_4121_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4122_findings /></a></div>
+              </div>
+            <p class="msg_head">Standard 4.13 Training</p>
+              <div class="msg_sub_body">
+                <div><a href="#"><collection:emap_4131_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4132_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4133_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4134_findings /></a></div>
+              </div>
+            <p class="msg_head">Standard 4.14 Exercises, Evaluations and Corrective Actions</p>
+              <div class="msg_sub_body">
+                <div><a href="#"><collection:emap_4141_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4142_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4143_findings /></a></div>
+              </div>
+            <p class="msg_head">Standard 4.15 Crisis Communications, Public Education and Information</p>
+              <div class="msg_sub_body">
+                <div><a href="#"><collection:emap_4151_findings /></a></div>
+                <div><a href="#"><collection:emap_41521_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4153_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4154_findings /></a></div><hr />
+                <div><a href="#"><collection:emap_4155_findings /></a></div>
+              </div>
+          </div>
+      </div>
+    </div>
+
+<!--  USAFRICOM Section  -->
+
+
+    <div class="msg_list">
+    <p class="msg_head"><span class="revbase">Military Review by U.S.AFRICOM</span><br />
+      <span class="counter_group">
+        First Reads Entered:
+        <span class="counter1">
+          <ht key="finding.collection.count" count="&this.mil_p_findings.count">
+            <human-collection-name collection="findings" />
+          </ht> out of 67
+        </span><br />
+        Second Reads Entered:
+        <span class="counter2">
+          <ht key="finding.collection.count" count="&this.mil_s_findings.count">
+            <human-collection-name collection="findings" />
+          </ht> out of 67
+        </span><br />
+        Completed:
+        <span class="counter3">
+          <ht key="finding.collection.count" count="&this.mil_findings.count">
+            <human-collection-name collection="findings" />
+          </ht> out of 67
+        </span>
+      </span>
+    </p>
+      <div class="msg_sub_body">
+        <p class="msg_head">Area 1 - STRUCTURE</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:mil_111_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_112_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_121_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_131_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_141_findings /></a></div>
+          </div>
+        <p class="msg_head">Area 2 - LEGAL AUTHORITIES</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:mil_211_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_212_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_221_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_222_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_231_findings /></a></div>
+          </div>
+        <p class="msg_head">Area 3 - PLANNING</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:mil_311_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_321_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_331_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_341_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_351_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_361_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_371_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_381_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_391_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_3101_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_3102_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_3103_findings /></a></div>
+          </div>
+        <p class="msg_head">Area 4 - LOGISTICS</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:mil_411_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_412_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_413_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_421_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_431_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_432_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_441_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_442_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_451_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_452_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_453_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_461_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_462_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_463_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_464_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_465_findings /></a></div>
+          </div>
+        <p class="msg_head">Area 5 - COMMUNICATION</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:mil_511_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_512_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_513_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_521_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_522_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_531_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_532_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_533_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_534_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_535_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_536_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_537_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_538_findings /></a></div>
+          </div>
+        <p class="msg_head">Area 6 - PERSONNEL</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:mil_611_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_621_findings /></a></div>
+          </div>
+        <p class="msg_head">Area 7 - TRAINING/EXERCISES</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:mil_711_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_712_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_713_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_714_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_721_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_722_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_723_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_724_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_725_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_731_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_741_findings /></a></div><hr />
+            <div><a href="#"><collection:mil_751_findings /></a></div>
+          </div>
+      </div>
+    </div>
+
+<!--  CDHAM Section  -->
+
+
+    <div class="msg_list">
+    <p class="msg_head"><span class="revbase">Medical Review by CDHAM</span><br />
+      <span class="counter_group">
+        First Reads Entered:
+        <span class="counter1">
+          <ht key="finding.collection.count" count="&this.med_p_findings.count">
+            <human-collection-name collection="findings" />
+          </ht> out of 34
+        </span><br />
+        Second Reads Entered:
+        <span class="counter2">
+          <ht key="finding.collection.count" count="&this.med_s_findings.count">
+            <human-collection-name collection="findings" />
+          </ht> out of 34
+        </span><br />
+        Completed:
+        <span class="counter3">
+          <ht key="finding.collection.count" count="&this.med_findings.count">
+            <human-collection-name collection="findings" />
+          </ht> out of 34
+        </span>
+      </span>
+    </p>
+      <div class="msg_sub_body">
+        <p class="msg_head">Area 1 - Legal Authority</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:med_11_findings /></a></div><hr />
+            <div><a href="#"><collection:med_12_findings /></a></div>
+          </div>
+        <p class="msg_head">Area 2 - Planning</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:med_21_findings /></a></div><hr />
+            <div><a href="#"><collection:med_22_findings /></a></div><hr />
+            <div><a href="#"><collection:med_23_findings /></a></div><hr />
+            <div><a href="#"><collection:med_24_findings /></a></div><hr />
+            <div><a href="#"><collection:med_25_findings /></a></div><hr />
+            <div><a href="#"><collection:med_26_findings /></a></div><hr />
+            <div><a href="#"><collection:med_27_findings /></a></div><hr />
+            <div><a href="#"><collection:med_28_findings /></a></div>
+          </div>
+        <p class="msg_head">Area 3 - Human Resources</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:med_31_findings /></a></div><hr />
+            <div><a href="#"><collection:med_32_findings /></a></div><hr />
+            <div><a href="#"><collection:med_33_findings /></a></div>
+          </div>
+        <p class="msg_head">Area 4 - Patient Care and Administration</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:med_41_findings /></a></div><hr />
+            <div><a href="#"><collection:med_42_findings /></a></div><hr />
+            <div><a href="#"><collection:med_43_findings /></a></div><hr />
+            <div><a href="#"><collection:med_44_findings /></a></div><hr />
+            <div><a href="#"><collection:med_45_findings /></a></div>
+          </div>
+        <p class="msg_head">Area 5 - Logistics and Facilities</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:med_51_findings /></a></div><hr />
+            <div><a href="#"><collection:med_52_findings /></a></div><hr />
+            <div><a href="#"><collection:med_53_findings /></a></div><hr />
+            <div><a href="#"><collection:med_54_findings /></a></div><hr />
+            <div><a href="#"><collection:med_55_findings /></a></div><hr />
+            <div><a href="#"><collection:med_56_findings />.</a></div>
+          </div>
+        <p class="msg_head">Area 6 - Transportation</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:med_61_findings /></a></div><hr />
+            <div><a href="#"><collection:med_62_findings /></a></div>
+          </div>
+        <p class="msg_head">Area 7 - Communications</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:med_71_findings /></a></div>
+          </div>
+        <p class="msg_head">Area 8 - Security</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:med_81_findings /></a></div>
+          </div>
+        <p class="msg_head">Area 9 - Civil-Military Cooperation</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:med_91_findings /></a></div><hr />
+            <div><a href="#"><collection:med_92_findings /></a></div><hr />
+            <div><a href="#"><collection:med_93_findings /></a></div><hr />
+            <div><a href="#"><collection:med_94_findings /></a></div>
+          </div>
+        <p class="msg_head">Area 10 - Mutual Aid</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:med_101_findings /></a></div><hr />
+            <div><a href="#"><collection:med_102_findings /></a></div>
+          </div>
+        <p class="msg_head">Area 11 - Training and Exercises</p>
+          <div class="msg_sub_body">
+            <div><a href="#"><collection:med_111_findings /></a></div><hr />
+            <div><a href="#"><collection:med_112_findings /></a></div>
+          </div>
+      </div>
+    </div><br /><br /><br />
+    </div>
+
+    <div class="review_summary">
+      <h2>Review Summary</h2>
+      Number of areas not yet addressed:
+      <span class="sums1">
+          <ht key="finding.collection.count" count="&this.unstarted_findings.count">
+            <human-collection-name collection="findings" />
+          </ht> out of 205
+      </span><br />
+      Number of First Reads Completed:
+      <span class="sums2">
+          <ht key="finding.collection.count" count="&this.primary_findings.count">
+            <human-collection-name collection="findings" />
+          </ht> out of 205
+      </span><br />
+      Number of Second Reads Completed:
+      <span class="sums3">
+          <ht key="finding.collection.count" count="&this.secondary_findings.count">
+            <human-collection-name collection="findings" />
+          </ht> out of 205
+      </span><br />
+      Number of Area Elements marked Completed:
+      <span class="sums4">
+          <ht key="finding.collection.count" count="&this.complete_findings.count">
+            <human-collection-name collection="findings" />
+          </ht> out of 205
+      </span>
+    </div>
+    
+  </content-body:>
+</show-page>

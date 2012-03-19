@@ -1,0 +1,77 @@
+# Even if you only support one language, you can use this file to customise the names that appear in the UI
+# e.g.
+
+en:
+  hello: "Hello world"
+
+#  attributes:
+#    created_at: Created at
+#    updated_at: Updated at
+#
+#  activerecord:
+#    models:
+#      user:
+#        one: User
+#        other: Users
+#    attributes:
+#      user:
+#        name: Name
+#        password: Password
+#        password_confirmation: Password Confirmation
+#        email_address: Email Address
+#    attribute_help:
+#      user:
+#        email_address: We will never share your address with third parties
+
+en:
+  activerecord:
+    models:
+      area:
+        one: Area
+        other: Areas
+      finding:
+        one: Finding
+        other: Findings
+      program:
+        one: Review
+        other: Reviews
+    attributes:
+      area:
+        standard: Item Number
+        name: Area
+        dp3_sector: DP3 Sector
+        dp3_overview: Overview
+        dp3_lang: Element
+        overview: Overview
+        language: Language
+      finding:
+        rational: Interviews
+        observation: Observations
+        recomendations: Recommendations
+        concur: Second Read
+        sec_obs: Second Read Finding
+        previewer: Primary Reviewer
+        sreviewer: Secondary Reviewer
+        lifecycle_state: Read Completed
+    attribute_help:
+      finding:
+        rational: Enter information about the interviews regarding this element.
+        observation: Enter any other information or details obtained during observations, citing documentation.
+        recomendations: Enter any recommendations for the improvement of this area.
+        decision: Does the Nation satisfy the intent of the area? (check for yes)
+        previewer: Please select your name from the list.
+        sreviewer: Please select your name from the list.
+        concur: Do you agree with the primary reviewer? (check for yes)
+        sec_obs: Any further observations or findings you may wish to add.
+        lifecycle:
+          transitions:
+            unstarted: Enter your findings for this area.
+            enter_finding: Enter your findings for this area.
+            revisit_finding: Go to the primary findings for this area.
+            second_read: Enter the second read findings.
+            return_to_primary: Go back to the primary findings.
+            return_to_secondary: Go back to the second read findings.
+            mark_complete: Click to enable account access.
+            reopen_secondary: Go back to the second read findings.
+            reopen_primary: Go back to the primary findings.
+
